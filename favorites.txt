@@ -1,5 +1,9 @@
 <<<<<<< HEAD
-Pizza\nCake\nIce Cream
+Pizza
+Cake
+Ice Cream
 =======
-10 Things I Hate About You\nEveryday I Love You\nTogether
+10 Things I Hate About You
+Everyday I Love You
+Together
 >>>>>>> movies
